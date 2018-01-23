@@ -53,7 +53,6 @@ header {
 .menu li a {
     font-size: 15px;
     color: #e1c6c6;
-
 }
 
         /* SOCIAL */
@@ -76,8 +75,6 @@ header {
     padding: 12px 8px 11px 18px;
 }
         /* /SOCIAL */
-
-
 .bg {
     background: url("../images/bg.png");
     -webkit-background-size: cover;
@@ -109,7 +106,6 @@ header {
     background-color: #b8a8a8;
     margin: 63px 69px 34px 74px;
     height: 346px;
-
 }
 .fa-play {
     font-size: 46px;
@@ -119,7 +115,6 @@ header {
     top: 50%;
     left: 50%;
 }
-
 
 .info {
     margin-left: 74px;
@@ -144,7 +139,6 @@ p.info-text {
     margin-right: 103px;
     padding-bottom: 120px;
 }
-
         /* FOOTER */
 .footer {
     background-color: #af2024;
